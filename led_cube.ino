@@ -7,7 +7,7 @@
 
   
  
-void setup()
+void setup() // tek 1 kez çalıştırır
 {
   
   for(int i = 0; i<16; i++)   
