@@ -21,7 +21,7 @@ void setup()
   randomSeed(analogRead(10));  //seeding random for random pattern
 }
 
-void loop()
+void loop() //burayı sürekli tekrar eder
 {
   turnEverythingOff();
   flickerOn();
