@@ -88,7 +88,7 @@ void flickerOn()
   {
     turnEverythingOn();
     delay(i);
-    turnEverythingOff();
+    turnEverythingOff();  //merhaba
     delay(i);
     i-= 5;
   }
